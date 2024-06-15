@@ -78,27 +78,30 @@ public class GUIJavaFX extends Application {
 
 
 
-##MenuBar:
+## MenuBar:
 
 Descripción: Una barra de menú principal.
 Función: Actúa como contenedor para los menús de la aplicación, ubicada en la parte superior de la ventana.
-##Menus:
+
+## Menus:
 
 Descripción: Menús principales como "Archivo", "Editar" y "Ayuda".
-Función: Agrupan opciones relacionadas bajo un mismo encabezado, organizando las acciones disponibles para el usuario.
-##MenuItems:
+Función: Agrupan opciones relacionadas bajo un mismo encabezado, organizando las acciones disponibles para el usuario. 
+
+## MenuItems:
 
 Descripción: Elementos de menú dentro de cada menú principal.
 Función: Representan acciones específicas que el usuario puede seleccionar, como "Nuevo", "Abrir" y "Guardar" en el menú "Archivo".
-##Separadores:
+
+## Separadores:
 
 Descripción: Uso de SeparatorMenuItem para organizar los elementos del menú.
-Función: Divide lógicamente las opciones del menú en secciones, mejorando la claridad visual y la organización.
-##Acciones:
+Función: Divide lógicamente las opciones del menú en secciones, mejorando la claridad visual y la organización. 
+## Acciones:
 
 Descripción: Definir acciones para cada elemento de menú.
 Función: Manejar las interacciones del usuario, como imprimir mensajes en la consola cuando se selecciona una opción.
-##Layout:
+## Layout:
 
 Descripción: Uso de un BorderPane para organizar la interfaz.
 Función: Coloca la barra de menú en la parte superior de la ventana, permitiendo una disposición clara y estructurada de los componentes de la interfaz.
